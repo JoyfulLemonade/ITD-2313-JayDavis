@@ -1,0 +1,6 @@
+(print('This triangle is equilateral') 
+if int(input('Length of side a: ')) 
+== int(input('Length of side b: ')) 
+== int(input('Length of side c: '))
+else print('Triangle is not equilateral')
+)
